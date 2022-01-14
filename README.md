@@ -22,7 +22,7 @@ github display page:https://alexisgeorgiades.github.io/Horiseonisthenewview/.
 github repository: https://github.com/AlexisGeorgiades/Horiseonisthenewview
 
 
-https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png![image](https://user-images.githubusercontent.com/97472884/149454024-24bc26cb-5b64-4b26-bdd3-ac902f15e17e.png)
+
 
 
 
