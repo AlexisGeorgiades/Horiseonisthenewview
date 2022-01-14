@@ -22,7 +22,8 @@ github display page:https://alexisgeorgiades.github.io/Horiseonisthenewview/.
 github repository: https://github.com/AlexisGeorgiades/Horiseonisthenewview
 
 
-https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FSF-FT-01-2022-U-LOL/-/raw/main/01-HTML-Git-CSS/02-Homework/Assets/01-html-css-git-homework-demo.png![image](https://user-images.githubusercontent.com/97472884/149453946-57d2af61-bb43-4fbb-a348-f59ac3dc1153.png)
+https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png![image](https://user-images.githubusercontent.com/97472884/149454024-24bc26cb-5b64-4b26-bdd3-ac902f15e17e.png)
+
 
 
 
